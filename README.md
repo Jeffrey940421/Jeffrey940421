@@ -11,4 +11,6 @@ I am excited to bring my technical skills and product mindset to my next role, w
 ## Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="100"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="100">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffrey940421)](https://github.com/anuraghazra/github-readme-stats)
+## My Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffrey940421&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrey940421&show_icons=true&theme=radical)]
